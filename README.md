@@ -1,4 +1,4 @@
-# Testing RTK-Query with Jest/Testing-Librar with MSW as a API mock
+# Testing RTK-Query with Jest/Testing-Library with MSW as a API mock
 
 How to run test
 
